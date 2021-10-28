@@ -1,2 +1,2 @@
-# spring-cloud 
-sdsd=22
+config:
+  info:"678"
